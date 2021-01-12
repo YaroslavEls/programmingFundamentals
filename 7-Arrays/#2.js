@@ -11,8 +11,8 @@ function removeElements(arr, ...args) {
 
 const array = [1, 2, 3, 4, 5, 6, 7];
 removeElements(array, 5, 1, 6);
-console.log(array);
+console.log(array);  // [2, 3, 4, 7]
 
 const array2 = ['Kiev', 'Beijing', 'Lima', 'Saratov'];
 removeElements(array2, 'Lima', 'Berlin', 'Kiev');
-console.log(array2);
+console.log(array2);  // ['Beijing', 'Saratov']

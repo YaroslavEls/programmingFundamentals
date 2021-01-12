@@ -15,4 +15,4 @@ const array1 = ['Beijing', 'Kiev'];
 const array2 = ['Kiev', 'London', 'Baghdad'];
 
 const res = difference(array1, array2);
-console.log(res);
+console.log(res);  // ['Beijing']

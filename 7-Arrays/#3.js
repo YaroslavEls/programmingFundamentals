@@ -12,7 +12,7 @@ function unique(arr) {
 
 
 const answer = unique([2, 1, 1, 3, 2]);
-console.log(answer);
+console.log(answer);  // [2, 1, 3]
 
 const result = unique(['top', 'bottom', 'top', 'left']);
-console.log(result);
+console.log(result);  // ['top', 'bottom', 'left']
