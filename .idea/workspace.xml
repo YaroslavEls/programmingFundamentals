@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7abbf1d-706e-44c8-b682-9d9bef908409" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ExamPreparing/#1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamPreparing/#2-merge.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamPreparing/#3-palindrome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamPreparing/#4-shuffle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamPreparing/#5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamPreparing/#6-random.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamPreparing/#7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamPreparing/#8-deep-clone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +56,7 @@
       <workItem from="1610481203341" duration="1000" />
       <workItem from="1610481385588" duration="14610000" />
       <workItem from="1610566804709" duration="26000" />
-      <workItem from="1610579935006" duration="3850000" />
+      <workItem from="1610579935006" duration="5177000" />
     </task>
     <servers />
   </component>
